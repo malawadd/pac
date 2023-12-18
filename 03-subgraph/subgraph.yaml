@@ -1,0 +1,26 @@
+specVersion: 0.0.4
+schema:
+  file: ./schema.graphql
+dataSources:
+  - kind: ethereum/contract
+    name: Trading
+    network: mode-testnet
+    source:
+      abi: Trading
+      address: "0x3e54904040689F4B58CFd75928f84b2be1F47D67"
+      startBlock: 7500462
+    mapping:
+      kind: ethereum/events
+      apiVersion: 0.0.6
+      language: wasm/assemblyscript
+      entities:
+        - Trading
+      abis:
+        - name: Trading
+          file: ./abis/Trading.json
+      eventHandlers:
+        - event: PositionUpdated(indexed bytes32,indexed address,indexed bytes32,address,bool,uint256,uint256,uint256,uint256)
+          handler: handlePositionUpdated
+        - event: ClosePosition(indexed bytes32,indexed address,indexed bytes32,address,bool,uint256,uint256,uint256,uint256,int256,bool)
+          handler: handleClosePosition
+      file: ./src/trading.ts
