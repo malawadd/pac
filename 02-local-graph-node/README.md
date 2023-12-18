@@ -1,6 +1,6 @@
 # Graph Node Docker Image
 
-Preconfigured Docker image for running a Graph Node on XRP TestNet.
+Preconfigured Docker image for running a Graph Node on mode  TestNet.
 
 ## Usage
 

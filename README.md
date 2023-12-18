@@ -82,6 +82,23 @@ Key Features of Pac :
     yarn dev
     ```
 
+
+## Contracts Address 
+
+- Router : [0xA45C3Dc75D77D3F5Dee29361aa1F5Bf0aFa9BE92](https://sepolia.explorer.mode.network/address/0xA45C3Dc75D77D3F5Dee29361aa1F5Bf0aFa9BE92)
+
+- trading : [0x3e54904040689F4B58CFd75928f84b2be1F47D67](https://sepolia.explorer.mode.network/address/0x3e54904040689F4B58CFd75928f84b2be1F47D67)
+
+- poolETH : [0x961843a3fe2C5cAB588D566C7E71D29c71264b6F](https://sepolia.explorer.mode.network/address/0x961843a3fe2C5cAB588D566C7E71D29c71264b6F)
+
+- poolUSDC : [0xEbA1Bc41347370Fc7C9B3ab0d03E1f752fDe5AFf](https://sepolia.explorer.mode.network/address/0xEbA1Bc41347370Fc7C9B3ab0d03E1f752fDe5AFf)
+
+- usdc : [0x40CEd3481cf6afE204FB5EED4f557dE59d33b8f7](https://sepolia.explorer.mode.network/address/0x40CEd3481cf6afE204FB5EED4f557dE59d33b8f7)
+
+- oracle : [0xF601d2523e0B14B2c2CB5733fA3738f4C4829d98](https://sepolia.explorer.mode.network/address/0xF601d2523e0B14B2c2CB5733fA3738f4C4829d98)
+
+- treasury : [0x5eA6FbD22b79B130759340AB10B499be0b12A3F3](https://sepolia.explorer.mode.network/address/0x5eA6FbD22b79B130759340AB10B499be0b12A3F3)
+
 ## Credits
 
 Pac uses the following open source packages:
