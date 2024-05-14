@@ -1,9 +1,5 @@
 # Pac
- 
-# [Mode DeFi Degen Hack](https://mode-defi-degen-hack.devpost.com)
-
-  
-  
+   
 <h1 align="center">
   <br>
   <a href=""><img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEixVLVTNmbQDzslY0qcLZZwpRHm2Akvo34PskUsALMAI6ccoSBci9mCXuCm0-N5r0l9XINyzZALqqAOkeIJr0yMwY_5oZbuB4Zfb25r0xkhsWHs_0DHse3enP_7A56ZR4SCPKEKFmbLGBaGZNxnKXSIsipfjCoaZYzdUAw8OIQiXkx3sSOswLuwQeUzWVQ/s1792/city.png" width="300"></a>
